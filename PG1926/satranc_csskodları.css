@@ -1,0 +1,67 @@
+    body{
+            background: wheat;
+        }
+        
+        h1{
+            color:rgb(36, 31, 31);
+            font-family: sans-serif;
+            text-align: center;
+            font-size: 3em;
+        }
+        table{
+            margin:auto;
+            border:20px solid #e84118;
+            border-spacing: 5px;
+        }
+        table td{
+            width: 75px;
+            height: 75px;
+            background: #f5f6fa;
+            font-size:3em;
+            line-height: 75px;
+            text-align: center;
+            border:2px solid #2f3640;
+        }
+        table th {
+             border:0px;
+             font-family:Arial, Helvetica, sans-serif;
+             font: size 3px;
+
+        }
+        .siyah{
+            background: #767748;
+            
+        }
+        /*.aciklama
+        {
+            position: relative;
+            display: inline-block;
+        }
+        .aciklama::after
+        {
+            content: attr(data-title);
+            position: absolute;
+            top: 100%;
+            left: -50%;
+            padding: 15px;
+            background: #eee;
+            color: #333;
+            opacity: 0;
+            word-wrap: break-word;
+            height: auto;
+            width: 200%;
+            -moz-box-shadow: 0 0 4px #222;
+            -webkit-box-shadow: 0 0 4px #222;
+            box-shadow: 0 0 4px #222;
+            pointer-events: none;
+        }
+        .aciklama:hover::after
+        {
+            opacity: 1;
+            -webkit-transition: opacity 0.3s;
+            -moz-transition: opacity 0.3s;
+            transition: opacity 0.3s;
+            pointer-events: auto;
+        }
+*/
+        
